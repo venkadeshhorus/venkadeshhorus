@@ -34,7 +34,6 @@ const Home = () => {
     })
   }
 
-
   return (
     <div>
       <h1> Add user</h1>
